@@ -10,7 +10,7 @@ Installing Kong is pretty simple. Here is a step by step plan on how to do it.
 First, obtain Instagram_Growth_ and virtualenv_ if you do not already have them. Using a
 virtual environment will make the installation easier, and will help to avoid
 clutter in your system-wide libraries. You will also need Git_ in order to
-clone the repository.
+clone the repository. [I'm an inline-style link](https://www.google.com)
 
 .. _Instagram_Growth: https://lpkstudio.com/
 .. _virtualenv: http://pypi.python.org/pypi/virtualenv
