@@ -1,7 +1,7 @@
 Installation
 ============
 
-Installing Kong is pretty simple. Here is a step by step plan on how to do it.
+Installing Kong is pretty simple. Here is a step by step plan on how to do it. TEST
 
 .. note::
     Kong is available on Pypi as ``django-kong``, but trunk is probably your
