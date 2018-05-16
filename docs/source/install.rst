@@ -7,7 +7,7 @@ Installing Kong is pretty simple. Here is a step by step plan on how to do it.
     Kong is available on Pypi as ``django-kong``, but trunk is probably your
     best best for the most up to date features.
 
-First, obtain Instagram__ and virtualenv_ if you do not already have them. Using a
+First, obtain Instagram_ and virtualenv_ if you do not already have them. Using a
 virtual environment will make the installation easier, and will help to avoid
 clutter in your system-wide libraries. You will also need Git_ in order to
 clone the repository.
