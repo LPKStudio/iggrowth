@@ -7,12 +7,17 @@ Installing Kong is pretty simple. Here is a step by step plan on how to do it.
     Kong is available on Pypi as ``django-kong``, but trunk is probably your
     best best for the most up to date features.
 
-First, obtain Instagram_Growth_ and virtualenv_ if you do not already have them. Using a
+Succeed with `Instagram Growth`__.
+
+.. _Python: https://lpkstudio.com/
+
+__ Python_
+
+First, obtain Python and virtualenv_ if you do not already have them. Using a
 virtual environment will make the installation easier, and will help to avoid
 clutter in your system-wide libraries. You will also need Git_ in order to
-clone the repository. .. _Python: http://www.python.org/
+clone the repository.
 
-.. _Instagram_Growth: https://lpkstudio.com/
 .. _virtualenv: http://pypi.python.org/pypi/virtualenv
 .. _Git: http://git-scm.com/
 
